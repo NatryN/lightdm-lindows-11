@@ -82,11 +82,11 @@ input:focus {
 
 .clock {
 	position: absolute;
-	top: 442px;
+	top: 42px;
 
 	font-size: 96pt;
 	z-index: 100;
-	left: 36px;
+	left: 50%;
 }
 
 #clock-mid {
@@ -96,9 +96,9 @@ input:focus {
 
 .date {
 	position: absolute;
-	top: 597px;
+	top: 50px;
 	font-size: 42pt;
-	left: 36px;
+	left: 50%;
 }
 
 #layer2 {
