@@ -106,6 +106,10 @@ input:focus {
 	transition: 0.2s opacity ease-in-out;
 	transition-delay: 0.5s;
 	background-color: rgba(0,0,0,0.3);
+	background-image: url("../images/image.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	width: 1366px;
 	height: 768px;
 	position: absolute;
