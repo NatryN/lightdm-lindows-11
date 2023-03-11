@@ -83,7 +83,7 @@ input:focus {
 .clock {
 	position: absolute;
 	top: 42px;
-
+	text-align: center;
 	font-size: 96pt;
 	z-index: 100;
 	left: 30%;
